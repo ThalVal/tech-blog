@@ -1,17 +1,13 @@
 [
   {
-    "name": "Killian",
-    "email": "killi@gmail.com",
-    "password": "password1234"
+    "name": "",
+    "email": "",
+    "password": ""
   },
   {
-    "name": "Kiri",
-    "email": "kiri@kiri.com",
-    "password": "kirikirikiri"
-  },
-  {
-    "name": "Amiko",
-    "email": "amiko2k20@aol.com",
-    "password": "password12345"
+    "name": "",
+    "email": "",
+    "password": ""
   }
+ 
 ]
