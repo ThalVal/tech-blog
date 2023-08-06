@@ -36,3 +36,4 @@ sequelize
 
 ## Heroku Deployed Page
 
+https://bloggingg-1b5ee46a11bf.herokuapp.com/
